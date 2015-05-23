@@ -1,0 +1,1899 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: StyleShop 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-01 12:52+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Ann\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Эта страница защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../comments.php:15 ../comments.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Пред. Коммент"
+
+#: ../comments.php:16 ../comments.php:30
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Нов. Коммент. <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:22
+msgid "0 Comments"
+msgstr "Нет комментариев"
+
+#: ../comments.php:22 ../functions.php:262
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: ../comments.php:22
+msgid "Comments"
+msgstr "Коммент."
+
+#: ../comments.php:36
+msgid "Trackbacks/Pingbacks"
+msgstr "Трекбеки/Пинги"
+
+#: ../comments.php:54
+msgid "Submit Comment"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:54
+msgid "Post a Reply"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:54
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s"
+
+#: ../content.php:33 ../page-blog.php:43 ../includes/entry.php:25
+msgid "0 comments"
+msgstr "Нет комментариев"
+
+#: ../content.php:33 ../page-blog.php:43 ../includes/entry.php:25
+msgid "1 comment"
+msgstr "Один комментарий"
+
+#: ../content.php:33 ../page-blog.php:43 ../includes/entry.php:25
+msgid "comments"
+msgstr "Коммент."
+
+#: ../content.php:39 ../image.php:58
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../footer.php:4
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Designed by %s | Powered by %s"
+
+#: ../functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:33
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../functions.php:90 ../functions.php:110 ../functions.php:279
+#: ../page-blog.php:43
+msgid "on"
+msgstr " "
+
+#: ../functions.php:93
+msgid "no-subset"
+msgstr ""
+
+#: ../functions.php:115 ../functions.php:176
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../functions.php:241
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: ../functions.php:258
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:260
+msgid "No Comments"
+msgstr ""
+
+#: ../functions.php:275 ../page-blog.php:43
+msgid "by"
+msgstr " "
+
+#: ../functions.php:282 ../page-blog.php:43
+msgid "in"
+msgstr "в"
+
+#: ../functions.php:287 ../page-blog.php:43
+msgid "Posted"
+msgstr "Опубликовано"
+
+#: ../functions.php:295
+msgid "Offers"
+msgstr ""
+
+#: ../functions.php:296
+msgid "Offer"
+msgstr ""
+
+#: ../functions.php:297
+msgid "Add New"
+msgstr ""
+
+#: ../functions.php:298
+msgid "Add New Offer"
+msgstr ""
+
+#: ../functions.php:299
+msgid "Edit Offer"
+msgstr ""
+
+#: ../functions.php:300
+msgid "New Offer"
+msgstr ""
+
+#: ../functions.php:301
+msgid "All Offers"
+msgstr ""
+
+#: ../functions.php:302
+msgid "View Offer"
+msgstr ""
+
+#: ../functions.php:303
+msgid "Search Offers"
+msgstr ""
+
+#: ../functions.php:304
+msgid "Nothing found"
+msgstr ""
+
+#: ../functions.php:305
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../functions.php:335
+#, php-format
+msgid "Offer updated. <a href=\"%s\">View Offer</a>"
+msgstr ""
+
+#: ../functions.php:336
+msgid "Custom field updated."
+msgstr ""
+
+#: ../functions.php:337
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../functions.php:338
+msgid "Offer updated."
+msgstr ""
+
+#: ../functions.php:340
+#, php-format
+msgid "Offer restored to revision from %s"
+msgstr ""
+
+#: ../functions.php:341
+#, php-format
+msgid "Offer published. <a href=\"%s\">View Offer</a>"
+msgstr ""
+
+#: ../functions.php:342
+msgid "Offer saved."
+msgstr ""
+
+#: ../functions.php:343
+#, php-format
+msgid "Offer submitted. <a target=\"_blank\" href=\"%s\">Preview Offer</a>"
+msgstr ""
+
+#: ../functions.php:344
+#, php-format
+msgid ""
+"Offer scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Offer</a>"
+msgstr ""
+
+#: ../functions.php:346
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../functions.php:347
+#, php-format
+msgid ""
+"Offer draft updated. <a target=\"_blank\" href=\"%s\">Preview testimonial</a>"
+msgstr ""
+
+#: ../functions.php:355 ../functions.php:356 ../functions.php:357
+#: ../functions.php:358
+msgid "ET Settings"
+msgstr ""
+
+#: ../functions.php:365
+msgid ""
+"If this post is displayed in the featured slider on homepage, you can set "
+"options for it here."
+msgstr ""
+
+#: ../functions.php:368
+msgid "Slide Title"
+msgstr ""
+
+#: ../functions.php:373
+msgid "Slide Description"
+msgstr ""
+
+#: ../functions.php:378
+msgid "Read More Button Text"
+msgstr ""
+
+#: ../functions.php:383
+msgid "Read More Custom Link"
+msgstr ""
+
+#: ../functions.php:387
+msgid "here you can provide a custom url, that will be used for the slide"
+msgstr ""
+
+#: ../functions.php:397
+msgid "Button Text"
+msgstr ""
+
+#: ../functions.php:402
+msgid "Custom Link"
+msgstr ""
+
+#: ../functions.php:474
+msgid "Fonts"
+msgstr ""
+
+#: ../functions.php:486
+msgid "Link Color"
+msgstr ""
+
+#: ../functions.php:499
+msgid "Main Font Color"
+msgstr ""
+
+#: ../functions.php:512
+msgid "Headings Color"
+msgstr ""
+
+#: ../functions.php:525
+msgid "Top Menu Bar Background Color"
+msgstr ""
+
+#: ../functions.php:538
+msgid "Menu Links Color"
+msgstr ""
+
+#: ../functions.php:551
+msgid "Menu Highlight Color"
+msgstr ""
+
+#: ../functions.php:564
+msgid "Footer Area Background Color"
+msgstr ""
+
+#: ../functions.php:576
+msgid "Header Font"
+msgstr ""
+
+#: ../functions.php:590
+msgid "Body Font"
+msgstr ""
+
+#: ../functions.php:652 ../includes/widgets/widget-search.php:15
+msgid "Search this site..."
+msgstr ""
+
+#: ../functions.php:654
+msgid "Search"
+msgstr ""
+
+#: ../functions.php:666 ../functions.php:687
+msgid "1 Item"
+msgstr ""
+
+#: ../functions.php:666
+msgid "Checkout"
+msgstr ""
+
+#: ../functions.php:672 ../page-sitemap.php:30
+#: ../epanel/options_styleshop.php:464
+msgid "Categories"
+msgstr ""
+
+#: ../functions.php:676 ../page-search.php:29 ../page-sitemap.php:25
+#: ../epanel/options_styleshop.php:459
+msgid "Pages"
+msgstr ""
+
+#: ../header.php:58 ../header.php:84 ../epanel/custom_functions.php:434
+#: ../includes/breadcrumbs.php:11
+msgid "Home"
+msgstr "Главная"
+
+#: ../home.php:14
+msgid "Special Seasonal Offers"
+msgstr "Специальные сезонные предложения"
+
+#: ../home.php:29 ../includes/entry.php:34
+msgid "Read More"
+msgstr "Далее"
+
+#: ../home.php:76
+msgid "Featured Products Now On Sale!"
+msgstr ""
+
+#: ../home.php:121
+msgid "Hot New Items"
+msgstr ""
+
+#: ../home.php:170
+msgid "We Have Been Featured In The Following Publications"
+msgstr ""
+
+#: ../image.php:52
+msgid "&larr; Previous"
+msgstr "&larr; Пред."
+
+#: ../image.php:53
+msgid "Next &rarr;"
+msgstr "След. &rarr;"
+
+#: ../page-blog.php:63
+msgid "read more"
+msgstr "далее"
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr ""
+
+#: ../page-contact.php:22
+msgid "Numbers regenerated."
+msgstr ""
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr ""
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr ""
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr ""
+
+#: ../page-contact.php:65
+msgid "Thanks for contacting us"
+msgstr ""
+
+#: ../page-contact.php:86 ../page-contact.php:87
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:91 ../page-contact.php:92
+msgid "Email Address"
+msgstr ""
+
+#: ../page-contact.php:96 ../page-contact.php:97
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:104
+msgid "Captcha: "
+msgstr ""
+
+#: ../page-contact.php:115 ../page-contact.php:116
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:121 ../epanel/core_functions.php:203
+#: ../epanel/core_functions.php:377
+msgid "Reset"
+msgstr ""
+
+#: ../page-contact.php:122 ../page-search.php:57
+msgid "Submit"
+msgstr ""
+
+#: ../page-gallery.php:48 ../page-template-portfolio.php:108
+msgid "Zoom in"
+msgstr ""
+
+#: ../page-gallery.php:49 ../page-template-portfolio.php:109
+msgid "Read more"
+msgstr ""
+
+#: ../page-login.php:28
+msgid "Username"
+msgstr ""
+
+#: ../page-login.php:29
+msgid "Password"
+msgstr ""
+
+#: ../page-search.php:23
+msgid "search this website"
+msgstr ""
+
+#: ../page-search.php:26
+msgid "search this site..."
+msgstr ""
+
+#: ../page-search.php:28
+msgid "Posts"
+msgstr ""
+
+#: ../page-search.php:32
+msgid "Select a month"
+msgstr ""
+
+#: ../page-sitemap.php:35
+msgid "Tags"
+msgstr ""
+
+#: ../page-sitemap.php:51
+msgid "Authors"
+msgstr ""
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:389
+msgid "Saving..."
+msgstr ""
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr ""
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr ""
+
+#: ../epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr ""
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr ""
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr ""
+
+#: ../epanel/core_functions.php:111 ../epanel/options_styleshop.php:469
+#: ../epanel/options_styleshop.php:620
+msgid "General Settings"
+msgstr ""
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr ""
+
+#: ../epanel/core_functions.php:117
+msgid "Layout Settings"
+msgstr ""
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr ""
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr ""
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr ""
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr ""
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr ""
+
+#: ../epanel/core_functions.php:204
+msgid "Upload Image"
+msgstr ""
+
+#: ../epanel/core_functions.php:229
+msgid "You don't have pages"
+msgstr ""
+
+#: ../epanel/core_functions.php:362
+msgid "Save changes"
+msgstr ""
+
+#: ../epanel/core_functions.php:373
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?"
+msgstr ""
+
+#: ../epanel/custom_functions.php:840
+msgid "Image doesn't exist"
+msgstr ""
+
+#: ../epanel/custom_functions.php:1029
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+
+#: ../epanel/custom_functions.php:1041
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not "
+"available for this theme. If this is an Elegant Themes theme, then you must "
+"re-download the theme from the member's area and <a href=\"http://www."
+"elegantthemes.com/members-area/documentation.html#update\" target=\"_blank"
+"\">re-install it</a> in order to update it to the latest version.</em>"
+msgstr ""
+
+#: ../epanel/custom_functions.php:1045
+msgid ""
+"Auto-updates are not available for this theme. If this is an Elegant Themes "
+"theme, then you must re-download the theme from the member's area and <a "
+"href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" "
+"target=\"_blank\">re-install it</a> in order to update it to the latest "
+"version."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:48
+msgid "General"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:52
+msgid "Homepage"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:56
+msgid "Featured Slider"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:63
+msgid "Logo"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:67
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:70
+msgid "Favicon"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:74
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:77
+msgid "Main Background Image"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:81
+msgid "Here you can upload the main background image."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:84
+msgid "Blog Style post format"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:88
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:91
+msgid "Grab the first post image"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:95
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:100
+msgid "Show Checkout Button in Navigation area"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:104
+msgid "Here you can choose to display the checkout button near the top menu. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:109
+msgid "Number of Posts displayed on Category page"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:113
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:117
+msgid "Number of Posts displayed on Archive pages"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:121
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:125
+msgid "Number of Posts displayed on Search pages"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:129
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:133
+msgid "Number of Posts displayed on Tag pages"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:137
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:141
+msgid "Date format"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:145
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:151
+msgid "Use excerpts when defined"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:155
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:158
+msgid "Responsive shortcodes"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:162
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:167
+msgid "Google Fonts subsets"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:171
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:176
+msgid "Custom CSS"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:180
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:190
+msgid "Display Special Offers"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:194
+msgid "Here you can choose to display Special Offers on the homepage. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:197
+msgid "Display Products On Sale"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:201
+msgid "Here you can choose to display Products On Sale on the homepage. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:206
+msgid "Display New Products"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:210
+msgid ""
+"Here you can choose to display new products on the homepage. Note: new "
+"products don't show up on homepage, if the 'Blog style mode' option is "
+"activated."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:213
+msgid "Display Clients Logos"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:217
+msgid "Here you can choose to display Clients logos section on the homepage. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:222
+msgid "Number of posts in the Special Offers slider"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:226
+msgid "Here you can choose the number of special offers on the homepage. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:230
+msgid "Number of products on sale"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:234
+msgid "Here you can choose the number of products on sale on the homepage. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:238
+msgid "Number of Recent Posts / Products displayed on homepage"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:242
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"homepage. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:246
+msgid "Exclude categories from homepage recent products"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:250
+msgid ""
+"By default the homepage displays a list of all of your most recent products. "
+"However, if you would like to exlcude certain products category from the "
+"list you can do so here. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:255
+msgid "Exclude categories from homepage recent posts ( in Blog style mode )"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:259
+msgid ""
+"By default the homepage displays a list of all of your most recent posts. "
+"However, if you would like to exlcude certain category from the list you can "
+"do so here. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:263
+msgid "1st Logo Image"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:267 ../epanel/options_styleshop.php:290
+#: ../epanel/options_styleshop.php:313 ../epanel/options_styleshop.php:336
+msgid "Here you can upload the client logo image."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:270
+msgid "1st Logo Url"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:274 ../epanel/options_styleshop.php:297
+#: ../epanel/options_styleshop.php:320 ../epanel/options_styleshop.php:343
+msgid "Place the client logo url here. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:278
+msgid "1st Logo Alt"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:282 ../epanel/options_styleshop.php:305
+#: ../epanel/options_styleshop.php:328 ../epanel/options_styleshop.php:351
+msgid "Place the client logo description here. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:286
+msgid "2nd Logo Image"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:293
+msgid "2nd Logo Url"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:301
+msgid "2nd Logo Alt"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:309
+msgid "3rd Logo Image"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:316
+msgid "3rd Logo Url"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:324
+msgid "3rd Logo Alt"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:332
+msgid "4th Logo Image"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:339
+msgid "4th Logo Url"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:347
+msgid "4th Logo Alt"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:361
+msgid "Display Featured Slider"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:365
+msgid ""
+"You can choose whether or not to display the Featured Articles section on "
+"the homepge. If you don't want to utilize this feature simply disable this "
+"option."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:368
+msgid "Duplicate Featured Articles"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:372
+msgid ""
+"In some cases your Featured Articles will also be one of your most recent "
+"articles, in which case the article will be displayed twice on the homepage. "
+"If you would like to remove duplicate posts enable this option."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:377
+msgid "Number of Featured Slides"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:381
+msgid ""
+"This setting controls how menu tabs are added to the Featured Articles "
+"slider on the homepage."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:385
+msgid "Featured Posts Category"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:389
+msgid ""
+"Here you can choose which category to be used to populate the Featured "
+"Slider on the homepage. This only applies if you have disabled the Use Pages "
+"options below."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:393
+msgid "Featured Products Category"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:398
+msgid ""
+"Here you can choose which category to be used to populate the Featured "
+"Slider on the homepage. This only applies if you have disabled 'Use Pages' "
+"and enabled 'Use Products' options below."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:402
+msgid "Use products"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:406
+msgid ""
+"The homepage Featured Slider can be set up using 3 methods. You can populate "
+"the slider using Posts, Products or you can populate it using Pages. If you "
+"would like to use Products in the Featured Slider then enable this option."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:409
+msgid "Use pages"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:413
+msgid ""
+"The homepage Featured Slider can be set up using 3 methods. You can populate "
+"the slider using Posts, Products or you can populate it using Pages. If you "
+"would like to use Pages in the Featured Slider then enable this option."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:418
+msgid "Include pages in the Featured Slider (if Use Pages enabled)"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:422
+msgid ""
+"If you selected Use Pages above, then use the checkboxes below to choose "
+"which pages are displayed in the Featured Slider."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:427
+msgid "Automatic Slider Animation"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:431
+msgid ""
+"If you would like the Featured Articles slider to slide automatically, "
+"without the visitor having to click the next button, enable this option and "
+"then adjust the rotation speed below if desired."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:436
+msgid "Automatic Animation Speed (in ms)"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:440
+msgid ""
+"Here you can designate how fast the slider fades between each article. The "
+"higher the number the longer the pause between each rotation."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:477
+msgid "Exclude pages from the navigation bar"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:481
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:485 ../epanel/options_styleshop.php:540
+msgid "Show dropdown menus"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:489
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:492
+msgid "Display Home link"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:496
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:501
+msgid "Sort Pages Links"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:505
+msgid "Here you can choose to sort your pages links."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:508
+msgid "Order Pages Links by Ascending/Descending"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:512
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:515 ../epanel/options_styleshop.php:556
+msgid "Number of dropdown tiers shown"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:519 ../epanel/options_styleshop.php:560
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:532
+msgid "Exclude categories from the navigation bar"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:536
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:544
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:547
+msgid "Hide empty categories"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:551
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:566
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:570
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:573
+msgid "Order Category Links by Ascending/Descending"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:577
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:586
+msgid "Disable top tier dropdown menu links"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:590
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:610
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:615
+msgid "Single Page Layout"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:628
+msgid "Choose which items to display in the postinfo section"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:632
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:635
+msgid "Place Thumbs on Posts"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:639
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:642
+msgid "Show comments on posts"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:646
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:657
+msgid "Place Thumbs on Pages"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:661
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on posts you can! Just enable this "
+"option. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:664
+msgid "Show comments on pages"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:668
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:679
+msgid "Post info section"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:683
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:688
+msgid "Show Thumbs on Index pages"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:692
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:711
+msgid "Homepage SEO"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:716
+msgid "Single Post Page SEO"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:721
+msgid "Index Page SEO"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:729
+msgid " Enable custom title "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:733
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:736
+msgid " Enable meta description"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:740
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:743
+msgid " Enable meta keywords"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:747
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+
+#: ../epanel/options_styleshop.php:750 ../epanel/options_styleshop.php:883
+msgid " Enable canonical URL's"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:754
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treaded individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:759
+msgid "Homepage custom title (if enabled)"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:763
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:767
+msgid "Homepage meta description (if enabled)"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:771
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:775
+msgid "Homepage meta keywords (if enabled)"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:779
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:783 ../epanel/options_styleshop.php:861
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:788
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:791 ../epanel/options_styleshop.php:869
+#: ../epanel/options_styleshop.php:907
+msgid "Define a character to separate BlogName and Post title"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:795 ../epanel/options_styleshop.php:873
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:805
+msgid "Enable custom titles"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:809
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:812
+msgid "Enable custom description"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:816
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:821
+msgid "Enable custom keywords"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:825
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:828
+msgid "Enable canonical URL's"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:832 ../epanel/options_styleshop.php:887
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URL's all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treaded individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:837
+msgid "Custom field Name to be used for title"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:841
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:845
+msgid "Custom field Name to be used for description"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:849
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:853
+msgid "Custom field Name to be used for keywords"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:857
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:866
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:890
+msgid "Enable meta descriptions"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:894
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:899
+msgid "Choose title autogeneration method"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:904
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:911
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:932
+msgid "Code Integration"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:940
+msgid "Enable header code"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:944
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:947
+msgid "Enable body code"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:951
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:956
+msgid "Enable single top code"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:960
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:963
+msgid "Enable single bottom code"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:967
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:972
+msgid "Add code to the < head > of your blog"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:976
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:979
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:983
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:986
+msgid "Add code to the top of your posts"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:990 ../epanel/options_styleshop.php:997
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:993
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:1015
+msgid "Documentation"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:1041
+msgid "Manage Un-widgetized Advertisements"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:1049
+msgid "Enable Single Post 468x60 banner"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:1053
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+
+#: ../epanel/options_styleshop.php:1058
+msgid "Input 468x60 advertisement banner image"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:1062
+msgid "Here you can provide 468x60 banner image url"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:1066
+msgid "Input 468x60 advertisement destination url"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:1070
+msgid "Here you can provide 468x60 banner destination url"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:1074
+msgid "Input 468x60 adsense code"
+msgstr ""
+
+#: ../epanel/options_styleshop.php:1078
+msgid "Place your adsense code here."
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Captcha"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Fill"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "field"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Invalid email"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:37
+msgid "ET Page Template Settings"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:64
+msgid ""
+"Additional settings appear here, when one of ET page templates is selected "
+"( Page Attributes -> Template )"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:69
+msgid "Full Width Page"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:74
+msgid "Regenerate captcha numbers"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:78
+msgid "Email To:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:84
+msgid "Blog Style mode"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:89
+msgid "Hide Auto Thumbnail"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:94
+msgid "Show Titles"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:99
+msgid "Show Descriptions"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:104
+msgid "Detect Portrait Images"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:108
+msgid "Thumbnail Size:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:109
+msgid "Small"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:110
+msgid "Medium"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:111
+msgid "Large"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:115
+#: ../epanel/page_templates/page_templates.php:120
+msgid "Number of posts per page:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:125
+msgid "Select blog categories:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:144
+msgid "Select gallery categories:"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Previous"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Next"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:302
+msgid "Member Login"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:305
+msgid "Username: "
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:306
+msgid "Password: "
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:307
+msgid "Login"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:343
+msgid "Add a Tooltip Text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:365
+msgid "Click here to learn more"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:973
+msgid "Caption"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:974
+msgid "Caption goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:975
+msgid "Caption title goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "State"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:981
+msgid "Select between expanded and closed state"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:986
+#: ../epanel/shortcodes/shortcodes.php:1002
+#: ../epanel/shortcodes/shortcodes.php:1031
+#: ../epanel/shortcodes/shortcodes.php:1111
+msgid "Content"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:987
+#: ../epanel/shortcodes/shortcodes.php:1003
+#: ../epanel/shortcodes/shortcodes.php:1089
+#: ../epanel/shortcodes/shortcodes.php:1112
+msgid "Content goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:988
+#: ../epanel/shortcodes/shortcodes.php:1004
+#: ../epanel/shortcodes/shortcodes.php:1033
+msgid "Content text or html"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:995
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "Type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:997
+msgid "Type of the box"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1011
+msgid "Link"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1013
+msgid "URL"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1019
+msgid "Choose button type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1024
+msgid "Color"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1026
+msgid "Choose button color"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1032
+msgid "Link text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Icon"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1039
+msgid "Used for icon button type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1044
+msgid "Open link in new window"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1046
+msgid "Select yes if the link should be opened in a new window"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1054
+msgid "Slider Type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1056
+msgid "Select Slider Type here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1061
+msgid "Effect"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1063
+msgid "Select Animation Effect"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1068
+msgid "Auto"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1070
+msgid "Choose yes if you want for automatic slider animation"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1075
+msgid "Auto Speed"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1077
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Tab Text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1088
+msgid "Tab Content"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1090
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1098
+msgid "Image Url"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1100
+msgid "Author Image URL"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Use resizing"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1181
+msgid "+ Add One More Tab"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1331
+msgid "Image Height"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1332
+msgid "Image Width"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:14
+msgid "Posts Tagged "
+msgstr "Посты с тэгами &quot;"
+
+#: ../includes/breadcrumbs.php:16 ../includes/breadcrumbs.php:18
+#: ../includes/breadcrumbs.php:20
+msgid "Posts made in"
+msgstr "Посты от"
+
+#: ../includes/breadcrumbs.php:22
+msgid "Search results for"
+msgstr "Результаты поиска по"
+
+#: ../includes/breadcrumbs.php:54
+msgid "Posts by "
+msgstr "Опубликовано"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Предыдущие Записи"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Следующие Записи &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Ничего не найдено"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"Запрашиваемая страница не найдена. Попробуйте уточнить параметры поиска или "
+"используйте меню для нахождения страницы."
+
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(Ред.)"
+
+#: ../includes/functions/comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../includes/functions/comments.php:31
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../includes/functions/installation.php:1
+msgid "Read StyleShop Documentation"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#~ msgid "&nbsp;&ndash; Page %s"
+#~ msgstr "&nbsp;&ndash; Стр %s"

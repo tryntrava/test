@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Product's Price Bulk Edit\n"
+"POT-Creation-Date: 2014-11-04 22:13+0330\n"
+"PO-Revision-Date: 2014-11-04 22:13+0330\n"
+"Last-Translator: Mostafa <mostafa.qanbary@gmail.com>\n"
+"Language-Team: Mostafa Qanbari\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../mq_woocommerce_products_price_bulk_edit.php:38
+msgid "Product's Bulk Price Edit"
+msgstr "ویرایش دسته جمعی قیمت محصولات"
+
+#: ../mq_woocommerce_products_price_bulk_edit.php:45
+msgid ""
+"Use <strong>[mq_wpbe]</strong> Shortcode in your pages or posts for Getting "
+"Pricing Table. Please Note that if you update your product form a Product "
+"Edit Page your Pricing Table Won't Update! Use This page to update Pricing "
+"Table in Front View."
+msgstr ""
+"می توانید از شورت کده <strong>[mq_wpbe]</strong> برای نمایش جدول قیمت "
+"محصولات در صفحات و نوشته ها استفاده کنید. به این نکته توجه کنید که این جدول "
+"قیمت تنها با بروزرسانی قیمت یک محصول دراین صفحه قابل مشاهده است. درصورتی که "
+"یک محصول را درووکامرس بروزرسانی کرده اید برای بروزرسانی جدول قیمت، قیمت "
+"محصول مورد نظر دراین صفحه را نیز بروزرسانی کنید."
+
+#: ../mq_woocommerce_products_price_bulk_edit.php:47
+msgid "MQ Woocommerce Product's Price Bulk Edit"
+msgstr "ویرایش دسته جمعی قیمت محصولات"
+
+#: ../mq_woocommerce_products_price_bulk_edit.php:57
+msgid "Select A Category To Filter: "
+msgstr "یک دسته را جهت نمایش انتخاب کنید:"
+
+#: ../mq_woocommerce_products_price_bulk_edit.php:85
+msgid "Uncategorized"
+msgstr "بدون دسته بندی"
+
+#: ../mq_woocommerce_products_price_bulk_edit.php:89
+#: ../mq_woocommerce_products_price_bulk_edit.php:145
+msgid "Product"
+msgstr "محصول"
+
+#: ../mq_woocommerce_products_price_bulk_edit.php:89
+#: ../mq_woocommerce_products_price_bulk_edit.php:145
+msgid "Regular Price"
+msgstr "قیمت"
+
+#: ../mq_woocommerce_products_price_bulk_edit.php:89
+#: ../mq_woocommerce_products_price_bulk_edit.php:145
+msgid "Sales Price"
+msgstr "قیمت حراج"
+
+#: ../mq_woocommerce_products_price_bulk_edit.php:111
+msgid "(Out Of Stock)"
+msgstr "(ناموجود)"
+
+#: ../mq_woocommerce_products_price_bulk_edit.php:148
+msgid "Sorry, no Products were found!"
+msgstr "هیچ محصولی در ووکامرس یافت نشد!"
+
+#~ msgid "Product's Bulk Price Editd"
+#~ msgstr "سس"

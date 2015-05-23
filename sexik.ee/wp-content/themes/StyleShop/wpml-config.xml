@@ -1,0 +1,17 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">offer</custom-type>
+    </custom-types>
+	<admin-texts>
+		<key name="et_styleshop">
+			<key name="styleshop_date_format" />
+			<key name="styleshop_logo_alt_1" />
+			<key name="styleshop_logo_alt_2" />
+			<key name="styleshop_logo_alt_3" />
+			<key name="styleshop_logo_alt_4" />
+			<key name="styleshop_seo_home_titletext" />
+			<key name="styleshop_seo_home_descriptiontext" />
+			<key name="styleshop_seo_home_keywordstext" />
+		</key>
+	</admin-texts>
+</wpml-config>
