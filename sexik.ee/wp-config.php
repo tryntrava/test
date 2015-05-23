@@ -16,7 +16,7 @@
 
 define('WP_CACHE', true); //Added by WP-Cache Manager
 define( 'WPCACHEHOME', '/Applications/MAMP/htdocs/sexik.ee/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
-define( 'WP_MEMORY_LIMIT', '64M' );
+define( 'WP_MEMORY_LIMIT', '96M' );
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
